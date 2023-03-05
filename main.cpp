@@ -1,12 +1,7 @@
 #include <iostream>
+#include <math.h>
 using namespace std;
-
-int main() {
-  int n;
-  cout << "n = ";
-  cin >> n;
-  for (int i = 0; i <= n; i++) {
-    cout << i << endl;
-  }
+i int main() {
+  cout << "Hello Wordl";
   return 0;
 }
